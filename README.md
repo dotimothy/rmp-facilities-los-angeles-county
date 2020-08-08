@@ -7,8 +7,6 @@ Get in touch with Tim Schütz (tschuetz@uci.edu) if you would like to contribute
 
 The website serves as a companion to the course Environmental Injustice, taught by Prof. Kim Fortun at the University of California Irvine.
 
-## Ammonium Nitrate (Fertilizer) Storage
-We are currently working on a map documenting the storage of ammonium nitrate. Get in touch with Tim Schütz (tschuetz@uci.edu) if you would like to contribute to the project.
 
 ## Risk Management Plan (RMP) Facilities
 Visualized with data by the Right-to-Know-Network and Houston Chronicle.Created and maintained by Tim Schütz, Rieko Konishi and Timothy Do.
